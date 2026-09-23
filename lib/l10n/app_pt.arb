@@ -536,6 +536,7 @@
   "removeSet": "Remover série",
   "continueWorkout": "CONTINUAR",
   "continueWorkoutBody": "O treino volta a ficar em andamento, com as séries já concluídas. Finalizá-lo novamente o salva no dia original.",
+  "addBodyWidget": "Adicionar widget do mapa muscular",
   "repsOnly": "Somente repetições",
   "repsOnlyHint": "Registre este exercício sem peso.",
   "useDefaultArt": "Voltar à arte padrão",
