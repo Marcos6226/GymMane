@@ -491,7 +491,7 @@
   "timelineBody": "Mapa muscular",
   "timelineBodyEmpty": "Registre uma sessão e seu mapa muscular começará a ser preenchido aqui, sem precisar de fotos.",
   "timelineBodyHint": "Construído a partir de suas séries — nada para fazer upload.",
-  "timelineWindow": "{de} – {para}",
+  "timelineWindow": "{from} – {to}",
   "sessionCount": "{n, plural, =0{Sem sessões} =1{1 sessão} other{{n} sessões}}",
   "notifPhotoChannel": "Fotos de progresso",
   "notifPhotoChannelWhy": "Um lembrete para quando a próxima foto de progresso estiver próxima.",
