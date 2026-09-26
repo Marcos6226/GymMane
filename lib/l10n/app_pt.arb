@@ -448,7 +448,7 @@
   "noteNoneOnDay": "Nada escrito neste dia",
   "noteAddOnDay": "Nota desse dia",
   "notePrevMonth": "Mês passado",
-  "noteNextMonth": "Proximo mês",
+  "noteNextMonth": "Próximo mês",
   "noteMonthCount": "{n, plural, =0{Sem notas neste mês} =1{1 nota esse mês} other{{n} notas neste mês}}",
   "measures": "MEDIDAS",
   "measuresHint": "Do pescoço à panturrilha — veja as mudanças no seu corpo, não apenas na barra.",
@@ -555,7 +555,7 @@
   "liveSet": "Série {n} de {total}",
   "liveResting": "Descansando",
   "liveAllDone": "Séries concluídas",
-  "autoAdvanceHint": "Ao marcar a última série de um exercício, o treino passa para o proximo.",
+  "autoAdvanceHint": "Ao marcar a última série de um exercício, o treino passa para o próximo.",
   "autoProgress": "Subir o peso sozinho",
   "autoProgressHint": "Se completar todas as repetições, o próximo treino começa {w} a mais.",
   "@autoProgressHint": { "placeholders": { "w": { "type": "String" } } },
@@ -640,8 +640,8 @@
   "rpeHint": "10 é não conseguir fazer mais nenhuma repetição; 8, é que sobravam duas.",
 
   "superset": "Supersérie",
-  "supersetLink": "Encadear com o proximo",
-  "supersetHint": "Sem descanso entre exercícios encadeados: passa logo ao proximo.",
+  "supersetLink": "Encadear com o próximo",
+  "supersetHint": "Sem descanso entre exercícios encadeados: passa logo ao próximo.",
 
   "aiRoutine": "Rotina com IA",
   "aiIntro": "O GymMane não fala com nenhuma IA. Você copia a sua lista de exercícios, cola no assistente que a usa e traz a resposta de volta. Do seu celular não sai nada sozinho.",
